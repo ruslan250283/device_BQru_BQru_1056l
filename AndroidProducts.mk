@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+$(LOCAL_DIR)/BQru_1056l.mk \
+$(LOCAL_DIR)/omni_BQru_1056l.mk
