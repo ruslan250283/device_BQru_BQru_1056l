@@ -60,4 +60,4 @@ TW_EXCLUDE_TWRPAPP := true
 TW_EXCLUDE_SUPERSU := true
 #TW_EXCLUDE_ENCRYPTED_BACKUPS := true
 #TW_DISABLE_TTF := true
-TW_DEVICE_VERSION := v_5.3 *** Compiled by Kitaez71 ***
+TW_DEVICE_VERSION := v_5.3 *** Compiled by ruslan_3_ ***
